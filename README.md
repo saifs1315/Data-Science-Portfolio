@@ -14,4 +14,5 @@ List of Contents:
 
 3. [Amazon Web Scraper](https://github.com/saifs1315/Portfolio/blob/main/Amazon%20Web%20Scraping/Intro%20Amazon%20Web%20Scraper%20Project.ipynb): Learning to use Beautiful Soup to scrape data from Amazon and using it to create a script to fill an excel sheet with the data scraped
 
-4. [Sentiment Analysis on Amazon Food Reviews](https://github.com/saifs1315/Portfolio/blob/main/Amazon%20Food%20Reviews/Sentiment%20Analysis%20on%20Amazon%20Food%20Reviews.ipynb): Comparison of results from NLTK's Vader model and Transofrmers to infer which approach is better at performing sentiment analysis
+4. [Twitter Sentiment Analysis](https://github.com/saifs1315/Portfolio/blob/main/Twitter%20sentiment%20analysis/Vaccine%20Sentiment%20Analysis.ipynb): Using a dataset containing tweets about Pfizer & BioNTech vaccine, and performing text preprocessing, sentiment analysis and creating a classification model that can classify the sentiment of the tweets in the dataset.
+5. [Sentiment Analysis on Amazon Food Reviews](https://github.com/saifs1315/Portfolio/blob/main/Amazon%20Food%20Reviews/Sentiment%20Analysis%20on%20Amazon%20Food%20Reviews.ipynb): Comparison of results from NLTK's Vader model and Transformers to infer which approach is better at performing sentiment analysis
