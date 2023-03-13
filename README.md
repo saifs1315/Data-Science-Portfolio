@@ -13,3 +13,5 @@ List of Contents:
 2. [Used Car Price Prediction](https://github.com/saifs1315/Data-Science-Portfolio/blob/main/Used%20Car%20Prediction/Used%20Car%20Prediction.ipynb): Validating different regression models to select best model for predicting price of used cars from a dataset containing categorical and numerical data
 
 3. [Amazon Web Scraper](https://github.com/saifs1315/Portfolio/blob/main/Amazon%20Web%20Scraping/Intro%20Amazon%20Web%20Scraper%20Project.ipynb): Learning to use Beautiful Soup to scrape data from Amazon and using it to create a script to fill an excel sheet with the data scraped
+
+4. [Sentiment Analysis on Amazon Food Reviews](https://github.com/saifs1315/Portfolio/blob/main/Amazon%20Food%20Reviews/Sentiment%20Analysis%20on%20Amazon%20Food%20Reviews.ipynb): Comparison of results from NLTK's Vader model and Transofrmers to infer which approach is better at performing sentiment analysis
