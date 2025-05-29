@@ -1,11 +1,6 @@
 # Portfolio
 
-Hello !
-
-I am Saif Syed, a technology enthusiast pursuing my Master's in Management of Information Systems and Digital Innovation at Warwick Business School. While my formal education initially didn't include programming, my passion for technology drove me to extensively self-study in this field. I've completed multiple courses in Machine Learning and Data Analytics using Python, alongside web application development using JavaScript, giving me a strong foundation in today's digital landscape.
-As an Information Technology Consultant with over 5 years of experience, I've worked in fast-paced, agile environments, developing a keen intuition for web applications. My role has involved analyzing complex business requirements and conducting thorough quality assurance, helping organizations deliver superior products to their clients. This combination of technical skills and business acumen allows me to bridge the gap between technology and business needs.
-
-This is a Repository containing portfolio of data science projects completed by me for self learning and hobby purposes. I have used Jupiter Notebooks and Python for these projects.
+I am Saif Syed, a technology enthusiast pursuing my Master's in Management of Information Systems and Digital Innovation at Warwick Business School. As a Digital Transformation Consultant with over 5 years of experience, I've worked in fast-paced, agile environments, developing a keen intuition for web applications. My role has involved analyzing complex business requirements and conducting thorough quality assurance, helping organizations deliver superior products to their clients. This combination of technical skills and business acumen allows me to bridge the gap between technology and business needs. This is a Repository containing a portfolio of data science projects completed by me for self learning and hobby purposes. I have used Jupiter Notebooks and Python for these projects.
 
 List of Contents:
 
